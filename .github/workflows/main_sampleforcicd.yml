@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'SampleForCiCd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97F887C04422478BB66388855A6A54E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97C91E1E4FBA4126BA232CBA804FFA57 }}
           package: .
